@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><![CDATA[
+    ]]><item name="lblresultadoCategoria" type="id"/>
+    <item name="btnCalcular" type="id" />
+    <item name="lblIMC" type="id" />
+    <item name="lblCategoria" type="id" />
+</resources>
