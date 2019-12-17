@@ -7,8 +7,6 @@ Esta aplicación consiste de una calculadora la cual obtiene el indice de masa c
 
 ### Visuals
 ![](images/Screenshot_20191217-114210_BMI Android.jpg)
-![](images/Screenshot_20191217-114223_BMI Android.jpg)
-
 
 ### Usage
 Esta aplicación es para que calcule el indice de masa corporal de una persona.
